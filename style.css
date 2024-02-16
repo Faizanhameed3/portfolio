@@ -1,0 +1,26 @@
+*{
+    background-color: lightgray;
+}
+.abc{
+    padding-right: 630px !important;
+}
+a{
+    padding: 20px !important;
+}
+h2{
+    padding-left: -350px !important;
+}
+.ddd{
+    width: 300px;
+    height: 300px;
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTlJt4nviGVQyovvbejBWAFTzam0fAzNwnlIPSq73biOV59k3T");
+    transform: rotate(5deg);
+}
+.nnn{
+    width: 150px;
+    height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+}
